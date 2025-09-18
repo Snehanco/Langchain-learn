@@ -64,6 +64,7 @@ def main():
         }
     )
     print(result)
+    print(type(result))
 
 
 if __name__ == "__main__":
