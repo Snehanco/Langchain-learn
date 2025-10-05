@@ -60,7 +60,7 @@ def main():
     # print(type(agent))
     result = chain.invoke(
         {
-            "input": "Search for job postings for Python and AI engineer based in Kolkata on LinkedIn.",
+            "input": "How can I watch the el classico online?",
         }
     )
     print(result)
